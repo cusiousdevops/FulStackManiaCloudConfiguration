@@ -1,5 +1,5 @@
 applicationconfigutation:
   host: http://localhost
   port: 3305
-  username: payment-aws-dev
-  password: payment-aws-dev
+  username: payment-aws-dev-updated
+  password: payment-aws-dev-updated
